@@ -1,0 +1,33 @@
+*{
+    text-align:center;
+}
+
+
+.container{
+    background-image:url("https://www.fcbarcelona.com/fcbarcelona/photo/2018/06/22/3e895682-c986-4d3f-97e3-529ec8dde9b2/PmrmdPkD.jpg");
+}
+
+.card{
+    background-color:rgba(255,255,255,0.8);
+    margin-bottom:50px;
+    margin-top:50px;
+    color:#bf0000;
+}
+
+
+.content{
+    background-color:rgba(255,255,255,0.8);
+    margin-bottom:20px;
+}
+
+.jump{
+    margin-top:30px;
+    margin-bottom:30px;
+    font-size:30px;
+}
+
+.search{
+    background-color:rgba(191,0,0,0.8);
+    color:white;
+}
+
